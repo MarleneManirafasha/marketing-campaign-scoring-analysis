@@ -1,0 +1,1 @@
+Les données brutes de campagne sont importées dans Python pour être explorées, nettoyées et enrichies avec des variables marketing. Les données préparées sont ensuite chargées dans PostgreSQL afin de produire des vues SQL exploitables par les équipes métiers. Enfin, Power BI se connecte à ces vues pour restituer les indicateurs de performance et les segments de ciblage.
